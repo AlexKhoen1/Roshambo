@@ -9,5 +9,5 @@
 ![image](https://user-images.githubusercontent.com/78273715/155206546-e4ee6ab4-3dc0-43fb-8e48-a44fa8854f50.png)
 
 ----------------------------------------------------------------------------------------------------------------------
-
+Licensed  under the [MIT License](LICENSE).
 
